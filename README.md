@@ -1,5 +1,5 @@
 # NestedProkkaFix
-Script to check for falsely split orthologues in roary outputs
+Script to check for falsely split orthologues in roary outputs that use prokka annotation input
 
 # Usage
 ````
